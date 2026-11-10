@@ -1,0 +1,5 @@
+model:
+  channels: 64
+train:
+  epochs: 60
+  lr: 0.0001
